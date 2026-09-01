@@ -1,4 +1,4 @@
-# Hi, I'm Ognjen 👋
+# Hi, I'm Ognjen Nikolic👋
 
 I'm a 17-year-old self-taught developer from Serbia 🇷🇸, currently focused on FiveM development and learning how to build high-quality scripts and systems.
 
